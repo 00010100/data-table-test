@@ -1,0 +1,9 @@
+.modeSelector {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.modeSelector button:last-child {
+  margin-left: 20px;
+}
